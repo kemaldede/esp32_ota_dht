@@ -128,12 +128,12 @@ CONFIG_PARTITION_TABLE_MD5=y
 #
 # Example Configuration
 #
-CONFIG_EXAMPLE_FIRMWARE_UPGRADE_URL="http://testotabuck1.s3.eu-west-1.amazonaws.com/advanced_https_ota.bin"
+CONFIG_EXAMPLE_FIRMWARE_UPGRADE_URL="https://www.xxxxxxxxxxx.com/ota.bin"
 # CONFIG_EXAMPLE_SKIP_COMMON_NAME_CHECK is not set
 # CONFIG_EXAMPLE_SKIP_VERSION_CHECK is not set
 CONFIG_EXAMPLE_OTA_RECV_TIMEOUT=5000
-CONFIG_WIFI_SSID="BTHub6-ZWFW"
-CONFIG_WIFI_PASSWORD="xy9FJDxnfwyx"
+CONFIG_WIFI_SSID="xxxxxxxxxxxx"
+CONFIG_WIFI_PASSWORD="xxxxxxxxxxxxxxxxxx"
 CONFIG_ESP_MAXIMUM_RETRY=5
 # end of Example Configuration
 
