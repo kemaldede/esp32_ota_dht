@@ -1,0 +1,13 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "c-cpp-flylint.enable": true,
+  "c-cpp-flylint.debug": true,
+  "c-cpp-flylint.flexelint.enable": false,
+  "c-cpp-flylint.cppcheck.enable": true,
+  "c-cpp-flylint.clang.enable": true,
+  "c-cpp-flylint.cppcheck.executable": "cppcheck",
+  "c-cpp-flylint.clang.executable": "clang",
+  "files.associations": {
+    "esp_event.h": "c"
+  }
+}
