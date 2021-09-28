@@ -2,7 +2,7 @@ menu "Example Configuration"
 
     config EXAMPLE_FIRMWARE_UPGRADE_URL
         string "Firmware Upgrade URL"
-        default "http://testotabuck1.s3.eu-west-1.amazonaws.com/advanced_https_ota.bin"
+        default "https://www.xxxxxxxxxxxx.com/ota.bin"
         help
             URL of server which hosts the firmware image.
 
@@ -26,13 +26,13 @@ menu "Example Configuration"
 
     config WIFI_SSID
         string "WIFI_SSID"
-        default "BTHub6-ZWFW"
+        default "XXXXXXXXXXXXXXXXXXx"
         help
             SSID (network name) for the example to connect to.
 
     config WIFI_PASSWORD
         string "WIFI_PASSWORD"
-        default "xy9FJDxnfwyx"
+        default "XXXXXXXXXXXXXXXXXXX"
         help
             WiFi password (WPA or WPA2) for the example to use.
 
